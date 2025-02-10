@@ -1,4 +1,3 @@
-#!/usr/bin/python
 def validate_force(clan_tonnage, is_tonnage, base_limit):
     """
     Validate if the mixed force complies with the adjusted effective tonnage limit.
