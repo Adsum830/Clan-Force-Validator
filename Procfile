@@ -1,1 +1,1 @@
-worker: python Clan_Force_validator.py
+web: python Clan_Force_validator.py
